@@ -1,0 +1,11 @@
+{
+	"name"        : "file-command",
+	"version"     : "0.1.0",
+	"type"        : "module",
+	"description" : "Node wrapper to the POSIX file command",
+	"license"     : "MIT",
+	"keywords"    : [ "file", "type" ],
+	"author"      : "Diogo Resende <dresende@thinkdigital.pt>",
+	"repository"  : "http://github.com/dresende/file-command.git",
+	"main"        : "lib/index.js"
+}
